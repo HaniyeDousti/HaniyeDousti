@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HaniyeDousti
 - 👀 I’m interested in bioinformatics algorithms
 - 🌱 I’m currently learning machine learning
-- 📫 How to reach me: haniyedousti@gmail.com
+- 📫 How to reach me: haniyedousti2@gmail.com
 
 <!---
 HaniyeDousti/HaniyeDousti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
